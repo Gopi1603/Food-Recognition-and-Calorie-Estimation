@@ -1,0 +1,26 @@
+# Dataset Links for Food Recognition and Calorie Estimation Project
+
+## Organized Train Set
+Link: [Google Drive - Train Set]
+(https://drive.google.com/drive/folders/1Dm1VfX1pr43-ldvmIUj4Ljj2X1mMIwjx?usp=sharing)
+
+## Organized Validation Set
+Link: [Google Drive - Validation Set]
+(https://drive.google.com/drive/folders/1yyZv8HUMa0-S9EAp_nOOgOTMnGq0ZFU5?usp=sharing)
+
+## Test Set
+Link: [Google Drive - Test Set]
+(https://drive.google.com/drive/folders/1-OYdq02m8SycM6-Hazk6vUj_2wNDzrOi?usp=sharing)
+
+NOTE
+
+To understand how the dataset images are organized and structured, refer to the notebook:
+
+"dataset_organisation.ipynb" in the same folder "data (FoodX251)"
+
+
+This file demonstrates:
+The structure of the train, validation, and test image sets.
+Steps for organizing the dataset into the required format for training and evaluation.
+Examples of how images are stored and accessed from the provided links.
+Make sure to explore this notebook for a step-by-step guide on dataset preparation and usag

@@ -1,0 +1,252 @@
+Predicted Food Class,Estimated Portion Size,Estimated Calories
+Macaron,100 grams,404 cal
+Beignet,100 grams,450 cal
+Cruller,100 grams,400 cal
+Cockle (Food),100 grams,70 cal
+Samosa,100 grams,308 cal
+Tiramisu,100 grams,350 cal
+Tostada,100 grams,250 cal
+Moussaka,100 grams,170 cal
+Dumpling,100 grams,220 cal
+Sashimi,100 grams,200 cal
+Knish,100 grams,210 cal
+Croquette,100 grams,300 cal
+Couscous,100 grams,120 cal
+Porridge,100 grams,60 cal
+Stuffed Cabbage,100 grams,180 cal
+Seaweed Salad,100 grams,70 cal
+Chow Mein,100 grams,150 cal
+Rigatoni,100 grams,160 cal
+Beef Tartare,100 grams,190 cal
+Cannoli,100 grams,250 cal
+Foie Gras,100 grams,460 cal
+Cupcake,100 grams,305 cal
+Osso Buco,100 grams,220 cal
+Pad Thai,100 grams,160 cal
+Poutine,100 grams,260 cal
+Ramen,100 grams,300 cal
+Pulled Pork Sandwich,100 grams,350 cal
+Bibimbap,100 grams,210 cal
+Chicken Kiev,100 grams,253 cal
+Apple Pie,100 grams,237cal
+Risotto,100 grams,180 cal
+Fruitcake,100 grams,324 cal
+Chop Suey,100 grams,140 cal
+Haggis,100 grams,260 cal
+Scrambled Eggs,100 grams,150 cal
+Frittata,100 grams,200 cal
+Scampi,100 grams,190 cal
+Sushi,100 grams,130 cal
+Orzo,100 grams,150 cal
+Fritter,100 grams,447 cal
+Nacho,100 grams,300 cal
+Beef Stroganoff,100 grams,98 cal
+Beef Wellington,100 grams,270 cal
+Spring Roll,100 grams,154 cal
+Savarin,100 grams,290 cal
+Crayfish (Food),100 grams,80 cal
+Souffle,100 grams,210 cal
+Adobo,100 grams,220 cal
+Streusel,100 grams,350 cal
+Deviled Egg,100 grams,160 cal
+Escargot,100 grams,150 cal
+Club Sandwich,100 grams,250 cal
+Carrot Cake,100 grams,415 cal
+Falafel,100 grams,310 cal
+Farfalle,100 grams,160 cal
+Terrine,100 grams,180 cal
+Poached Egg,100 grams,140 cal
+Gnocchi,100 grams,130 cal
+Bubble and Squeak,100 grams,200 cal
+Egg Roll,100 grams,196 cal
+Caprese Salad,100 grams,120 cal
+Sauerkraut,100 grams,30 cal
+Creme Brulee,100 grams,330 cal
+Pavlova,100 grams,290 cal
+Fondue,100 grams,320 cal
+Scallop,100 grams,120 cal
+Jambalaya,100 grams,150 cal
+Tempura,100 grams,260 cal
+Chocolate Cake,100 grams,371 cal
+Potpie,100 grams,270 cal
+Spaghetti Bolognese,100 grams,160 cal
+Sukiyaki,100 grams,180 cal
+Applesauce,100 grams,50 cal
+Baklava,100 grams,430 cal
+Salisbury Steak,100 grams,250 cal
+Linguine,100 grams,160 cal
+Edamame,100 grams,120 cal
+Coq au Vin,100 grams,170 cal
+Tamale,100 grams,210 cal
+Macaroni and Cheese,100 grams,280 cal
+Kedgeree,100 grams,150 cal
+Garlic Bread,100 grams,350 cal
+Beet Salad,100 grams,70 cal
+Steak Tartare,100 grams,220 cal
+Vermicelli,100 grams,140 cal
+Pate,100 grams,320 cal
+Pancake,100 grams,220 cal
+Tetrazzini,100 grams,260 cal
+Onion Rings,100 grams,270 cal
+Red Velvet Cake,100 grams,367 cal
+Compote,100 grams,90 cal
+Lobster (Food),100 grams,120 cal
+Chicken Curry,100 grams,124 cal
+Chicken Wing,100 grams,254 cal
+Caesar Salad,100 grams,170 cal
+Succotash,100 grams,120 cal
+Hummus,100 grams,160 cal
+Fish and Chips,100 grams,213 cal
+Lasagna,100 grams,280 cal
+Lutefisk,100 grams,60 cal
+Sloppy Joe,100 grams,240 cal
+Gingerbread,100 grams,350 cal
+Crab Cake,100 grams,220 cal
+Sauerbraten,100 grams,250 cal
+Peking Duck,100 grams,340 cal
+Guacamole,100 grams,160 cal
+Ham Sandwich,100 grams,242 cal
+Crumpet,100 grams,170 cal
+Taco,100 grams,210 cal
+Strawberry Shortcake,100 grams,270 cal
+Clam Chowder,100 grams,100 cal
+Cottage Pie,100 grams,170 cal
+Croque Madame,100 grams,300 cal
+French Onion Soup,100 grams,60 cal
+Beef Carpaccio,100 grams,120 cal
+Torte,100 grams,350 cal
+Poi,100 grams,120 cal
+Crab (Food),100 grams,110 cal
+Bacon and Eggs,100 grams,240 cal
+Coffee Cake,100 grams,330 cal
+Custard,100 grams,160 cal
+Syllabub,100 grams,250 cal
+Pork Chop,100 grams,210 cal
+Fried Rice,100 grams,163 cal
+Boiled Egg,100 grams,155 cal
+Galantine,100 grams,230 cal
+Brisket,100 grams,290 cal
+Reuben,100 grams,270 cal
+Schnitzel,100 grams,310 cal
+Ambrosia (Food),100 grams,200 cal
+Gyoza,100 grams,180 cal
+Jerky,100 grams,400 cal
+Ravioli,100 grams,220 cal
+Fried Calamari,100 grams,300 cal
+Spaghetti Carbonara,100 grams,250 cal
+Miso Soup,100 grams,40 cal
+Frozen Yogurt,100 grams,150 cal
+Wonton,100 grams,200 cal
+Panna Cotta,100 grams,220 cal
+French Toast,100 grams,270 cal
+Enchilada,100 grams,230 cal
+Ceviche,100 grams,110 cal
+Fettuccine,100 grams,160 cal
+Chili,100 grams,180 cal
+Flan,100 grams,220 cal
+Kabob,100 grams,150 cal
+Sponge Cake,100 grams,230 cal
+Casserole,100 grams,200 cal
+Paella,100 grams,150 cal
+Blancmange,100 grams,130 cal
+Bruschetta,100 grams,170 cal
+Tortellini,100 grams,160 cal
+Grilled Salmon,100 grams,226 cal
+French Fries,100 grams,312 cal
+Shrimp and Grits,100 grams,250 cal
+Churro,100 grams,450 cal
+Donut,100 grams,400 cal
+Meat Loaf,100 grams,290 cal
+Meatball,100 grams,230 cal
+Scrapple,100 grams,210 cal
+Strudel,100 grams,320 cal
+Coconut Cake,100 grams,360 cal
+Marble Cake,100 grams,350 cal
+Filet Mignon,100 grams,250 cal
+Hamburger,100 grams,260 cal
+Fried Egg,100 grams,150 cal
+Tuna Tartare,100 grams,130 cal
+Penne,100 grams,160 cal
+Eggs Benedict,100 grams,220 cal
+Bread Pudding,100 grams,230 cal
+Takoyaki,100 grams,210 cal
+Tenderloin,100 grams,200 cal
+Chocolate Mousse,100 grams,350 cal
+Baked Alaska,100 grams,300 cal
+Hot Dog,100 grams,290 cal
+Confit,100 grams,320 cal
+Ham and Eggs,100 grams,250 cal
+Biryani,100 grams,140 cal
+Greek Salad,100 grams,90 cal
+Huevos Rancheros,100 grams,150 cal
+Tagliatelle,100 grams,160 cal
+Stuffed Peppers,100 grams,120 cal
+Cannelloni,100 grams,190 cal
+Pizza,100 grams,266 cal
+Sausage Roll,100 grams,330 cal
+Chicken Quesadilla,100 grams,270 cal
+Hot and Sour Soup,100 grams,40 cal
+Prime Rib,100 grams,400 cal
+Cheesecake,100 grams,350 cal
+Limpet (Food),100 grams,110 cal
+Ziti,100 grams,150 cal
+Mussel,100 grams,120 cal
+Manicotti,100 grams,190 cal
+Ice Cream,100 grams,207 cal
+Waffle,100 grams,291 cal
+Oyster,100 grams,60 cal
+Omelette,100 grams,154 cal
+Clam (Food),100 grams,140 cal
+Burrito,100 grams,220 cal
+Roulade,100 grams,280 cal
+Lobster Bisque,100 grams,150 cal
+Grilled Cheese Sandwich,100 grams,330 cal
+Gyro,100 grams,260 cal
+Pound Cake,100 grams,370 cal
+Pho,100 grams,40 cal
+Lobster Roll Sandwich,100 grams,180 cal
+Baby Back Rib,100 grams,290 cal
+Tapenade,100 grams,240 cal
+Pepper Steak,100 grams,150 cal
+Welsh Rarebit,100 grams,210 cal
+Pilaf,100 grams,140 cal
+Dolmas,100 grams,120 cal
+Coquilles Saint Jacques,100 grams,200 cal
+Veal Cordon Bleu,100 grams,270 cal
+Shirred Egg,100 grams,140 cal
+Barbecued Wing,100 grams,250 cal
+Lobster Thermidor,100 grams,220 cal
+Steak au Poivre,100 grams,260 cal
+Huitre (Oyster),100 grams,70 cal
+Chiffon Cake,100 grams,360 cal
+Profiterole,100 grams,320 cal
+Toad in the Hole,100 grams,210 cal
+Chicken Marengo,100 grams,170 cal
+Victoria Sandwich,100 grams,320 cal
+Tamale Pie,100 grams,230 cal
+Boston Cream Pie,100 grams,280 cal
+Fish Stick,100 grams,190 cal
+Crumb Cake,100 grams,340 cal
+Chicken Provencale,100 grams,160 cal
+Vol-au-Vent,100 grams,230 cal
+Entrecote,100 grams,250 cal
+Carbonnade Flamande,100 grams,280 cal
+Bacon Lettuce Tomato Sandwich,100 grams,280 cal
+Scotch Egg,100 grams,300 cal
+Pirogi,100 grams,200 cal
+Peach Melba,100 grams,150 cal
+Upside Down Cake,100 grams,350 cal
+Applesauce Cake,100 grams,310 cal
+Rugulah,100 grams,370 cal
+Rock Cake,100 grams,320 cal
+Barbecued Spareribs,100 grams,290 cal
+Beef Bourguignonne,100 grams,230 cal
+Rissole,100 grams,220 cal
+Mostaccioli,100 grams,210 cal
+Apple Turnover,100 grams,260 cal
+Matzo Ball,100 grams,120 cal
+Chicken Cordon Bleu,100 grams,280 cal
+Eccles Cake,100 grams,330 cal
+Moo Goo Gai Pan,100 grams,90 cal
+Buffalo Wing,100 grams,290 cal
+Stuffed Tomato,100 grams,120 cal
