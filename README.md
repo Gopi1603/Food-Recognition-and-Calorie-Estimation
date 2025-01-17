@@ -67,7 +67,8 @@ The dataset features a wide variety of food categories, but it poses challenges 
 
 ### Reports and References:
 - **[Project Report](docs/Food%20Calorie%20Estimation%20Using%20ViT%20and%20Mask%20R-CNN.pdf)**: Food Calorie Estimation Using ViT and Mask R-CNN.
-- **Literature Review**: Reference Papers.
+- **Literature Review**:**[Reference Papers](Reference%20Papers/)**
+
 
 ## Similar Products
 
